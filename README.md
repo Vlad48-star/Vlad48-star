@@ -28,7 +28,6 @@
 * The Rolling Scopes School (RSSchool): [JAVASCRIPT/FRONT-END 2021Q3 (JAVASCRIPT)](https://app.rs.school/certificate/c62krccu)
 
 ## My Contacts
-[![Discord](https://img.shields.io/badge/Discord-%40Vlad.9301%239325-blue?style=flat-square-endpoint&logo=discord&logoColor=blue&labelColor=EEEEEE)](https://discord.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-%40igorintelegram-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://t.me/Markyz_rorty) 
 [![Linkedin](https://img.shields.io/badge/linkedin-Vlad_Hitrikov-grey?style=flat-square-endpoint&logo=linkedin&logoColor=grey&labelColor=EEEEEE)](https://www.linkedin.com/in/vlad-hitrikov-1aa217212/com/)
 
